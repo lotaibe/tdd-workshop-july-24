@@ -1,7 +1,8 @@
 ## TDD Workshop for CBF Event - July 2024
 
-In this workshop, you would learn Test Driven Development by building a simple `CoffeeOrder` service.
 
+In this workshop, you would learn Test Driven Development by building a simple `CoffeeOrder` service.
+A sample solution to the problem can be found on the `workshop-solution` [branch](https://github.com/lotaibe/tdd-workshop-july-24/tree/workshop-solution)
 
 ## Functional Requirements
 
