@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.coffee.service.CoffeeOrderServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-07-31T20:27:44" hostname="Lotachukwus-MacBook-Pro.local" time="0.016">
+  <properties/>
+  <testcase name="testPlaceOrderInvalidOrderQuantity()" classname="com.example.coffee.service.CoffeeOrderServiceTest" time="0.007"/>
+  <testcase name="testPlaceOrderInvalidOrderSize()" classname="com.example.coffee.service.CoffeeOrderServiceTest" time="0.0"/>
+  <testcase name="testPlaceOrderInvalidOrderType()" classname="com.example.coffee.service.CoffeeOrderServiceTest" time="0.0"/>
+  <testcase name="testPlaceOrderCoffeeTypeNotFound()" classname="com.example.coffee.service.CoffeeOrderServiceTest" time="0.002"/>
+  <testcase name="PlaceOrder()" classname="com.example.coffee.service.CoffeeOrderServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
